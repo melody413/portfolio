@@ -11,6 +11,7 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 import predictores from "../../Assets/Projects/predictores.png";
 import predictores1 from "../../Assets/Projects/predictores1.png";
 import bolt from "../../Assets/Projects/bolta.png";
+import facebookS from "../../Assets/Projects/facebook.png";
 
 function Projects() {
   return (
@@ -60,12 +61,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={facebookS}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
-              // demoLink="https://chatify-49.web.app/"
+              title="Facebook Scraping API"
+              description="A powerful REST API for automated Facebook scraping with zero manual intervention. This API provides endpoints to start scraping jobs and retrieve data from various Facebook sources including ads, pages, and advertiser information."
+              ghLink="https://github.com/melody413/facebook_scraping"
             />
           </Col>
 

@@ -19,19 +19,25 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              🚀 I am a highly skilled <b className="purple">AI Engineer</b> with over <b className="purple">8 years of experience</b> in building intelligent, scalable solutions using cutting-edge technologies.
+              🚀 I am a highly skilled <b className="purple">Web developer, Scraper and AI Automation expert</b> with over <b className="purple">8 years of experience</b> in building intelligent, scalable solutions using cutting-edge technologies.
               <br />
               <br />
               My core expertise includes:
               <ul>
                 <li>
+                  ✅ <b className="purple">Full Stack Development</b> (Python, Java, TypeScript, FastAPI, Django, React, Node.js)
+                </li>
+                <li>
+                  ✅ <b className="purple">Scraping technologies</b> (BeautifulSoup, Scrapy, Selenium, Puppeteer, Capcha, Anti-bot solutions, Proxies, Headless Browsers, Rate Limiting, Data Extraction, Web Crawling, Data Processing)
+                </li>
+                <li>
+                  ✅ <b className="purple">Automation technologies</b> (Make.com, Zapier, Integromat, UiPath, Robocorp, RPA, HubSpot, Airtable, Google Apps Script, Automation Anywhere)
+                </li>
+                <li>
                   ✅ <b className="purple">Machine Learning & Deep Learning</b> (Computer Vision, NLP, Generative AI, LLMs)
                 </li>
                 <li>
                   ✅ <b className="purple">AI Tools & Frameworks</b> (TensorFlow, PyTorch, Hugging Face, LangChain, PySpark, Pinecone, Weaviate)
-                </li>
-                <li>
-                  ✅ <b className="purple">Full Stack Development</b> (Python, Java, TypeScript, FastAPI, Django, React, Node.js)
                 </li>
                 <li>
                   ✅ <b className="purple">Cloud & DevOps</b> (AWS, Azure, Kubernetes, Docker, Kafka, Jenkins, CI/CD)
